@@ -1,0 +1,20 @@
+Urgente,30,Reparar maquina de montagem
+Normal,15,Montar carrinho de madeira
+Opcional,60,Treinar equipe em nova maquina
+Normal,20,Pintar boneca de pano
+Urgente,25,Falta de materia prima "madeira"
+Opcional,45,Otimizar processo de embalagem
+Normal,10,Embalar jogo de tabuleiro
+Urgente,40,Problema de qualidade em ursinho de pelucia
+Normal,18,Montar quebra cabeca
+Opcional,30,manutencao preventiva nas maquinas de pintura
+Urgente,35,Avaria na esteira de producao
+Normal,22,Revisar componentes de brinquedos
+Opcional,50,Capacitacao de novos operadores
+Normal,12,Testar novos materiais para embalagem
+Urgente,28,Interrupcao na linha de montagem
+Opcional,40,Reorganizacao do almoxarifado
+Normal,17,Verificacao de pecas defeituosas
+Urgente,33,Problema eletrico na fabrica
+Opcional,55,Implementacao de nova tecnologia de pintura
+Normal,14,Inspecao final de produtos
